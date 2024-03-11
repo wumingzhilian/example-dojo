@@ -3,5 +3,7 @@ image: hello
 challenges:
   - id: apple
     name: Apple
+    image: apple
   - id: banana
     name: Banana
+    image:banana
