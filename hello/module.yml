@@ -6,4 +6,4 @@ challenges:
     image: apple
   - id: banana
     name: Banana
-    image:banana
+    image: banana
