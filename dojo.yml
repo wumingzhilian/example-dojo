@@ -5,4 +5,7 @@ award:
   emoji: 😀
 modules:
   - id: hello
+    image: helloo
+    
   - id: world
+    image: worldd
