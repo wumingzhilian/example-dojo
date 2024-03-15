@@ -3,7 +3,8 @@ image: hello
 challenges:
   - id: apple
     name: Apple
-    image: apple
+    level: 1
+    
   - id: banana
     name: Banana
-    image: banana
+    level: 1
